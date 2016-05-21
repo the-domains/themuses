@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: A film review by Theresa Parstorfer
-datePublished: '2016-05-21T22:50:02.799Z'
-dateModified: '2016-05-21T22:49:53.480Z'
+datePublished: '2016-05-21T23:00:57.658Z'
+dateModified: '2016-05-21T23:00:08.286Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-a-film-review-by-theresa-parstorfer.md
@@ -49,6 +49,6 @@ Based on the book ['Where Pain Thrives'][2] by [Mie Hansson][3].
 All rights reserved Émigré Publishing 2015 and Return of the Muses Limited, 2015
 
 [0]: https://vimeo.com/135407271
-[1]: tmkraft.com
-[2]: wherepainthrives.com
-[3]: miehansson.com
+[1]: http://www.tmkraft.com/
+[2]: http://www.wherepainthrives.com/
+[3]: http://www.miehansson.com/
