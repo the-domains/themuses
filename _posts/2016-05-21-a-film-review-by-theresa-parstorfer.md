@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: A film review by Theresa Parstorfer
-datePublished: '2016-05-21T23:04:40.496Z'
-dateModified: '2016-05-21T23:01:00.188Z'
+description: A review by Theresa Parstorfer
+datePublished: '2016-05-21T23:34:21.685Z'
+dateModified: '2016-05-21T23:34:17.969Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-a-film-review-by-theresa-parstorfer.md
@@ -17,9 +17,10 @@ url: a-film-review-by-theresa-parstorfer/index.html
 _type: Article
 
 ---
+A shortfilm about Mie Hansson's first poetry edition Where Pain Thrives (2015)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/817768d7-6de7-4108-80c2-ef39d2e8f27c.jpg)
 
-A film review by Theresa Parstorfer
+A review by Theresa Parstorfer
 
 Flickering black and white images, shadows running super-imposed. A tall young woman on a toilet seat is writing on toilet tissue. Perhaps, the poem, that is read by a soft voice in the background. Again and again one glimpses her in time-lapse: in the bathroom, in underpants, with a blonde wig, in a long white robe. The camera shakes, after the second take the first scene is over.  
 The short film "Where Pain Thrives" is to be understood as an adaption of poems of the Danish artist Mie Hansson and resembles a mixture of poetry reading, art film and "making-of" when the voice of the poetess herself who is also the woman on the toilet announces the poems. Which is also the intention of film director Tobias M Kraft: the bringing together of different art forms in order to create a new resulting confluent work of art (Endkunstwerk) which in turn reflects back on the original works of art, leaving them in a new light. In this case, the poems and the film material, which consists of nine longer sequences filmed in London and Paris, is synthesized into the short film "Where Pain Thrives -- The Visual Edition".  
