@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: A review by Theresa Parstorfer
-datePublished: '2016-05-21T23:34:21.685Z'
-dateModified: '2016-05-21T23:34:17.969Z'
+datePublished: '2016-05-21T23:35:52.280Z'
+dateModified: '2016-05-21T23:35:32.565Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-a-film-review-by-theresa-parstorfer.md
@@ -17,7 +17,9 @@ url: a-film-review-by-theresa-parstorfer/index.html
 _type: Article
 
 ---
-A shortfilm about Mie Hansson's first poetry edition Where Pain Thrives (2015)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/756c6914-d060-445f-b5f4-cae7d3141879.jpg)
+
+A shortfilm featuring Mie Hansson's first poetry edition Where Pain Thrives (2015)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/817768d7-6de7-4108-80c2-ef39d2e8f27c.jpg)
 
 A review by Theresa Parstorfer
