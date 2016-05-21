@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Return of the Muses]]></title>
-        <description><![CDATA[Return of the Muses]]></description>
+        <title><![CDATA[a London-based production company for film, music and literature ]]></title>
+        <description><![CDATA[a London-based production company for film, music and literature ]]></description>
         <link>https://thegrid.ai/themuses/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 23:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 May 2016 23:34:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/themuses/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Where Pain Thrives (2015)]]></title>
+            <description><![CDATA[<p>A review by Theresa Parstorfer</p>]]></description>
+            <link>https://thegrid.ai/themuses/a-film-review-by-theresa-parstorfer/index.html</link>
+            <guid isPermaLink="false">a6941672-3ae4-42e2-94bd-1429506ed486</guid>
+            <pubDate>Sat, 21 May 2016 23:34:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbb7d1c4-acd3-4eb1-bbfb-658a1003bd7d.jpg">]]></description>
             <link>https://thegrid.ai/themuses/utopia/index.html</link>
             <guid isPermaLink="false">34f6247e-6886-46c0-a053-971a4ab20075</guid>
             <pubDate>Sat, 21 May 2016 23:22:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Where Pain Thrives (2015)]]></title>
-            <description><![CDATA[<p>A film review by Theresa Parstorfer</p>]]></description>
-            <link>https://thegrid.ai/themuses/a-film-review-by-theresa-parstorfer/index.html</link>
-            <guid isPermaLink="false">a6941672-3ae4-42e2-94bd-1429506ed486</guid>
-            <pubDate>Sat, 21 May 2016 23:04:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
