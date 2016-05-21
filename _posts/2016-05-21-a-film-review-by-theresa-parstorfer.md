@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A film review by Theresa Parstorfer
-datePublished: '2016-05-21T22:45:09.592Z'
-dateModified: '2016-05-21T22:44:40.724Z'
+datePublished: '2016-05-21T22:50:02.799Z'
+dateModified: '2016-05-21T22:49:53.480Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-21-a-film-review-by-theresa-parstorfer.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-21-a-film-review-by-theresa-parstorfer.md
 url: a-film-review-by-theresa-parstorfer/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/817768d7-6de7-4108-80c2-ef39d2e8f27c.jpg)
+
 A film review by Theresa Parstorfer
 
 Flickering black and white images, shadows running super-imposed. A tall young woman on a toilet seat is writing on toilet tissue. Perhaps, the poem, that is read by a soft voice in the background. Again and again one glimpses her in time-lapse: in the bathroom, in underpants, with a blonde wig, in a long white robe. The camera shakes, after the second take the first scene is over.  
