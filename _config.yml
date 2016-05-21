@@ -1,4 +1,4 @@
-name: Return of the Muses
+name: Return of The Muses
 favicon: null
 layout_spectrum: 0.27891565626487136
 typography_spectrum: 0.2493
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#040404'
-    - '#4e4e4e'
-    - '#8d8d8d'
-    - '#c7c7c7'
-    - '#fbfbfb'
-  brandStrength: 0.28653337503783405
+    - '#000000'
+    - '#6c6c6c'
+    - '#979797'
+    - '#b4b4b4'
+    - '#eeeeee'
+  brandStrength: 0.375
   lightness: 0.3678037680219859
-  saturation: 0.47409884724766016
+  saturation: 0.5
   rhythmicContrast: 0.9542752732522786
 purpose: []
