@@ -4,20 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "'Neither king, nor emperor ..."
-datePublished: '2016-05-22T00:12:01.027Z'
-dateModified: '2016-05-22T00:11:42.658Z'
+description: 'The Search for Wagner conducted by Mie Hansson '
+datePublished: '2016-05-22T00:39:55.280Z'
+dateModified: '2016-05-22T00:39:44.497Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-neither-king-nor-emperor-.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: neither-king-nor-emperor-/index.html
 _type: Article
 
 ---
-The Search of Wagner - conducted by Mie Hansson captured by Tobias M Kraft
+'Neither king, nor emperor ...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8dfe90a-97a7-4b66-bf5d-a5731956e571.jpg)
 
-'Neither king, nor emperor ...
+The Search for Wagner conducted by Mie Hansson
