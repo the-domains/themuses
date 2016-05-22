@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The Search for Wagner conducted by Mie Hansson '
-datePublished: '2016-05-22T00:39:55.280Z'
-dateModified: '2016-05-22T00:39:44.497Z'
+datePublished: '2016-05-22T00:45:25.873Z'
+dateModified: '2016-05-22T00:41:26.348Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22-neither-king-nor-emperor-.md
