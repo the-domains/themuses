@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: A review by Theresa Parstorfer
-datePublished: '2016-05-21T23:58:15.454Z'
-dateModified: '2016-05-21T23:57:42.707Z'
+datePublished: '2016-05-22T00:17:45.683Z'
+dateModified: '2016-05-22T00:17:41.892Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-a-film-review-by-theresa-parstorfer.md
@@ -17,8 +17,6 @@ url: a-film-review-by-theresa-parstorfer/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c316b8d-8052-4e67-b5e2-879ef03c44d9.jpg)
-
 Where Pain Thrives (2015) - a shortfilm featuring Mie Hansson's first poetry edition.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/817768d7-6de7-4108-80c2-ef39d2e8f27c.jpg)
 
@@ -50,6 +48,10 @@ Editor and Compositor: Maria Pia Fanigliulo
 Based on the book ['Where Pain Thrives'][2] by [Mie Hansson][3].
 
 All rights reserved Émigré Publishing 2015 and Return of the Muses Limited, 2015
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2275f6e-b0f1-40b6-aa1b-92f25595b936.jpg)
+
+  
+
 
 [0]: https://vimeo.com/135407271
 [1]: http://www.tmkraft.com/
