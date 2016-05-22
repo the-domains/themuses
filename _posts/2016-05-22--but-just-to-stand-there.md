@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ... but just to stand there
-datePublished: '2016-05-22T01:00:18.914Z'
-dateModified: '2016-05-22T01:00:02.017Z'
-authors: []
-publisher: null
+datePublished: '2016-05-22T01:04:17.294Z'
+dateModified: '2016-05-22T01:00:21.949Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-05-22--but-just-to-stand-there.md
+authors: []
+publisher: null
+starred: false
 url: '-but-just-to-stand-there/index.html'
 _type: Article
 
