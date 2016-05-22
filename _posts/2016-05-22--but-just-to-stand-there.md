@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Search for Wagner conducted by Mie Hansson shot by Tobias M Kraft
-datePublished: '2016-05-22T00:38:04.516Z'
-dateModified: '2016-05-22T00:35:40.600Z'
+datePublished: '2016-05-22T00:45:11.381Z'
+dateModified: '2016-05-22T00:41:22.527Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22--but-just-to-stand-there.md
