@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: The Search for Wagner conducted by Mie Hansson shot by Tobias M Kraft
-datePublished: '2016-05-22T00:45:11.381Z'
-dateModified: '2016-05-22T00:41:22.527Z'
+description: ... but just to stand there ...
+datePublished: '2016-05-22T00:55:05.419Z'
+dateModified: '2016-05-22T00:54:50.323Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-22--but-just-to-stand-there.md
@@ -17,7 +17,6 @@ url: '-but-just-to-stand-there/index.html'
 _type: Article
 
 ---
-... but just to stand there ...
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8261d2d-3c88-4924-8d24-ae90cf10f4cc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a316670-138d-41bc-a0b5-985fd9213688.jpg)
 
-The Search for Wagner conducted by Mie Hansson shot by Tobias M Kraft
+... but just to stand there ...
