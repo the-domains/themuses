@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "... and conduct.' "
-datePublished: '2016-05-22T00:35:19.376Z'
-dateModified: '2016-05-22T00:35:06.069Z'
+datePublished: '2016-05-22T00:40:25.076Z'
+dateModified: '2016-05-22T00:35:37.094Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-05-22--and-conduct.md
+starred: true
 url: '-and-conduct/index.html'
 _type: Article
 
